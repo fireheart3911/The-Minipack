@@ -1,0 +1,17 @@
+
+*
+!.gitignore
+!/kubejs
+!/kubejs/*
+!/kubejs/**/*
+!/config
+!/config/*
+!/config/**/*
+!/defaultconfigs
+!/defaultconfigs/*
+!/defaultconfigs/**/*
+/config/ItemLocks/**/*
+/config/ItemLocks/*
+# Test
+config.zip
+kubejs.zip

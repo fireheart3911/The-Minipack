@@ -1,0 +1,18 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"mekanism:radioactive_waste_barrel"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mekanism:rotary_condensentrator"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"immersiveengineering:workbench"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mekanism:mekasuit_bodyarmor"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mekanism:pellet_polonium"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":"mekanism:polonium","type":"mekanism.api.chemical.ChemicalStack","bookmarkType":"INGREDIENT"},
+  {"ingredient":"mekanism:fissile_fuel","type":"mekanism.api.chemical.ChemicalStack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mekanism:reprocessed_fissile_fragment"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mekanism:pellet_plutonium"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":"mekanism:plutonium","type":"mekanism.api.chemical.ChemicalStack","bookmarkType":"INGREDIENT"},
+  {"ingredient":"mekanism:nuclear_waste","type":"mekanism.api.chemical.ChemicalStack","bookmarkType":"INGREDIENT"},
+  {"ingredient":"mekanism:antimatter","type":"mekanism.api.chemical.ChemicalStack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mekanism:pellet_antimatter"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"oritech:low_yield_nuke"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":"mekanism:spent_nuclear_waste","type":"mekanism.api.chemical.ChemicalStack","bookmarkType":"INGREDIENT"}
+]
